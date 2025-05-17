@@ -1,0 +1,6 @@
+C:\Users\Adriana\Documents\SharpDevelop Projects\ComplejidadTP6\ComplejidadTP6\obj\Debug\ComplejidadTP6.csprojResolveAssemblyReference.cache
+C:\Users\Adriana\Documents\SharpDevelop Projects\ComplejidadTP6\ComplejidadTP6\bin\Debug\ComplejidadTP6.exe.config
+C:\Users\Adriana\Documents\SharpDevelop Projects\ComplejidadTP6\ComplejidadTP6\bin\Debug\ComplejidadTP6.exe
+C:\Users\Adriana\Documents\SharpDevelop Projects\ComplejidadTP6\ComplejidadTP6\bin\Debug\ComplejidadTP6.pdb
+C:\Users\Adriana\Documents\SharpDevelop Projects\ComplejidadTP6\ComplejidadTP6\obj\Debug\ComplejidadTP6.exe
+C:\Users\Adriana\Documents\SharpDevelop Projects\ComplejidadTP6\ComplejidadTP6\obj\Debug\ComplejidadTP6.pdb
