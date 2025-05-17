@@ -1,0 +1,6 @@
+C:\Users\Adriana\Documents\SharpDevelop Projects\ComplejidaddTP3\ComplejidaddTP3\obj\Debug\ComplejidaddTP3.csprojResolveAssemblyReference.cache
+C:\Users\Adriana\Documents\SharpDevelop Projects\ComplejidaddTP3\ComplejidaddTP3\bin\Debug\ComplejidaddTP3.exe.config
+C:\Users\Adriana\Documents\SharpDevelop Projects\ComplejidaddTP3\ComplejidaddTP3\bin\Debug\ComplejidaddTP3.exe
+C:\Users\Adriana\Documents\SharpDevelop Projects\ComplejidaddTP3\ComplejidaddTP3\bin\Debug\ComplejidaddTP3.pdb
+C:\Users\Adriana\Documents\SharpDevelop Projects\ComplejidaddTP3\ComplejidaddTP3\obj\Debug\ComplejidaddTP3.exe
+C:\Users\Adriana\Documents\SharpDevelop Projects\ComplejidaddTP3\ComplejidaddTP3\obj\Debug\ComplejidaddTP3.pdb
